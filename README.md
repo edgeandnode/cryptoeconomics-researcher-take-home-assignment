@@ -1,0 +1,1 @@
+This repository is to provide candidates for the position of cryptoeconomics researcher with a take home assignment. Overview of the assignment and relevant files can be found inside the Take-home-assignment directory.
