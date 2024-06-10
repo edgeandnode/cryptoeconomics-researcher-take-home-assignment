@@ -4,12 +4,7 @@ Welcome to the repository containing the files nescessary to attempt the Cryptoe
 
 ## Overview
 
-The overview of the assignment and all relevant files are located inside the `Take-home-assignment` directory. We have provided you with a jupyter notebook .ipynb file that contains more information and a start to the assignment. You will also find a CSV file inside the directory, the CSV contains simulated data that will be used in the assignment. 
-
-## Getting Started
-
-1. **Review the assignment**
-   - Open `E&N - Take home Assignment - Skills Test - Cryptoeconomics Researcher.ipynb` to read the full details of the assignment.
+The overview of the assignment and all relevant files are located inside the `Take-home-assignment` directory. We have provided you with a jupyter notebook .ipynb file that contains all the information you'll need to get started. You will also find a CSV file inside the directory, the CSV contains simulated data that will be used in the assignment. We recommend that you examine the .ipynb file first. 
 
 ## Submission
 
