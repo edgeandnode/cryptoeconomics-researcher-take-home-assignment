@@ -8,13 +8,7 @@ The overview of the assignment and all relevant files are located inside the `Ta
 
 ## Getting Started
 
-1. **Clone the repository**
-    ```sh
-    git clone https://github.com/edgeandnode/cryptoeconomics-researcher-take-home-assignment.git
-    cd cryptoeconomics-researcher-take-home-assignment/Take-home-assignment
-    ```
-
-2. **Review the assignment**
+1. **Review the assignment**
    - Open `E&N - Take home Assignment - Skills Test - Cryptoeconomics Researcher.ipynb` to read the full details of the assignment.
 
 ## Submission
