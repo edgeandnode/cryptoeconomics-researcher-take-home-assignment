@@ -4,7 +4,7 @@ Welcome to the repository containing the files nescessary to attempt the Cryptoe
 
 ## Overview
 
-The overview of the assignment and all relevant files are located inside the `Take-home-assignment` directory. We have provided you with a jupyter notebook .ipynb file that contains all the information you'll need to get started. You will also find a CSV file inside the directory, the CSV contains simulated data that will be used in the assignment. We recommend that you examine the .ipynb file first. 
+The overview of the assignment and all relevant files are located inside the `Take-home-assignment` directory. We have provided you with a Jupyter Notebook .ipynb file that contains all the information you'll need to get started. You will also find two CSV's inside the directory, the CSV's contain simulated data that will be used in the assignment. We recommend that you examine the Jupyter Notebook .ipynb file first for instructions. 
 
 ## How to install Jupyter Notebook
 
